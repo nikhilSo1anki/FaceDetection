@@ -20,3 +20,4 @@ while True:
 
 
 img.release()
+cv2.destroyAllWindows()
